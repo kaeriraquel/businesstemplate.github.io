@@ -1,0 +1,27 @@
+.logo img {
+     width: 150px;
+     margin-left: 40px;
+     margin-right: 400px;
+    }
+.menu {
+    line-height: 50px; 
+}
+.menu a {
+      margin-left: 80px;
+      font-size: 13px;
+    }
+.espacio{
+    margin-top: 100px;
+}
+.text-primary h2{
+    color: #031579 !important;
+}
+.text-primary h4{
+    color: #73747c !important;
+}
+.imagen1 img{
+    width: 900px;
+}
+.imagen2 {
+    width: 200px;
+}
